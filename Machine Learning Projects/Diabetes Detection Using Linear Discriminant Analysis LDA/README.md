@@ -1,0 +1,1 @@
+This project involves detecting diabetes using the Linear Discriminant Analysis (LDA) model.I have used the Glucose and BMI features from a diabetes dataset, standardize the features, train the LDA model, evaluate its performance, and visualize the decision regions.
