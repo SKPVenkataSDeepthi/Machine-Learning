@@ -1,4 +1,4 @@
-This project is about building a spam mail detection system using a Support Vector Machine (SVM) classifier. The key steps include data preprocessing, feature extraction, model training, and evaluation.
+This project is about building a spam mail detection system using a Support Vector Machine (SVM) classifier that can effectively classify emails as spam or ham. The key steps include data preprocessing, feature extraction, model training, and evaluation.
 
 Steps Involved
 1. Import Libraries
