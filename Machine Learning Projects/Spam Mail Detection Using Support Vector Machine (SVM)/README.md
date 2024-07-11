@@ -20,4 +20,10 @@ Steps Involved
    * The labels in the dataset are converted to binary format where 'spam' is 1 and 'ham' is 0.
 8. Split Data into Training and Testing Sets:
    * The data is split into training and testing sets with 80% of the data used for training and 20% for testing. The random_state parameter ensures reproducibility.
-9. 
+9. Train SVM model:
+    * An SVM model with a linear kernel is trained using the training data.
+10. Make Predictions:
+    * The trained SVM model is used to make predictions on the test data.
+11. Evaluate the model:
+    * The accuracy and classification report (precision, recall, F1-score) of the model are printed to evaluate its performance.
+
