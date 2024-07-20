@@ -28,12 +28,3 @@ In this project, we use linear regression to predict healthcare expenses. The da
 
 - Python
 - Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib (and any other dependencies required for data handling and visualization)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-
-This project was part of a machine learning course focusing on Python. Special thanks to the course instructors for their guidance and support.
-
