@@ -47,14 +47,6 @@ For simplicity, the model uses the following features:
 
 The confusion matrix and classification report provide detailed insights into the model's performance. The ROC curve shows the trade-off between true positive rate and false positive rate.
 
-## Confusion Matrix
-
-![Confusion Matrix](path/to/confusion_matrix_plot.png)
-
-## ROC Curve
-
-![ROC Curve](path/to/roc_curve_plot.png)
-
 ## Dependencies
 
 - numpy
