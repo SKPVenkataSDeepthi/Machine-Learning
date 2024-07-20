@@ -1,15 +1,39 @@
-I have did this project as a part of FreeCodeCamp Machine Learning with Python course. 
+# Linear Regression Health Costs Calculator
 
-In this challenge, I have predicted healthcare costs using a regression algorithm.
+This project was completed as part of a Machine Learning course. The objective is to predict healthcare costs using a regression algorithm. The dataset contains information about various individuals, including their healthcare costs. The challenge involves creating a model that predicts these costs based on new data.
 
-A dataset was given that contains information about different people including their healthcare costs. I have used  the data to predict healthcare costs based on new data.
+## Project Overview
 
-The first two cells of this notebook import libraries and the data.
+In this project, we use linear regression to predict healthcare expenses. The dataset is split into training and testing subsets, and the model is evaluated based on its ability to predict healthcare costs with a Mean Absolute Error (MAE) under $3500.
 
-Then I made sure to convert categorical data to numbers. And used 80% of the data as the train_dataset and 20% of the data as the test_dataset.
+## Instructions
 
-Then as asked in the challenge I popped  off the "expenses" column from these datasets to create new datasets called train_labels and test_labels. And I have used these labels when training your model.
+1. **Import Libraries and Data**: Import the necessary libraries and load the dataset into the environment.
 
-Now as next part of the challenge I have created a model and trained it with the train_dataset. And ran the final cell in this notebook to check your model. The final cell will use the unseen test_dataset to check how well the model generalizes.
+2. **Data Preprocessing**: Convert categorical data into numerical values. Split the dataset into training (80%) and testing (20%) subsets.
 
-To pass the challenge, model.evaluate must return a Mean Absolute Error of under 3500. This means it predicts health care costs correctly within $3500.
+3. **Label Extraction**: Remove the "expenses" column from the datasets to create `train_labels` and `test_labels`. These labels are used for training and evaluating the model.
+
+4. **Model Creation and Training**: Create a linear regression model and train it using the `train_dataset`.
+
+5. **Model Evaluation**: Evaluate the model using the test dataset. Ensure that the Mean Absolute Error (MAE) is under $3500.
+
+6. **Prediction and Visualization**: Use the model to predict healthcare expenses on the test dataset and visualize the results.
+
+## Files
+
+- `health_costs_calculator.ipynb`: Jupyter notebook containing the code for the project and instructions.
+
+## Requirements
+
+- Python
+- Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib (and any other dependencies required for data handling and visualization)
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+
+This project was part of a machine learning course focusing on Python. Special thanks to the course instructors for their guidance and support.
+
