@@ -1,6 +1,10 @@
 # Book Recommendation Engine Using K-Nearest Neighbors (KNN)
 
-This project demonstrates how to build a book recommendation algorithm using K-Nearest Neighbors (KNN) with the Book-Crossings dataset. The goal is to recommend books similar to a given book based on user ratings.
+## Project Overview
+
+The Book Recommendation Engine project utilizes the K-Nearest Neighbors (KNN) algorithm to build a book recommendation system. By analyzing user ratings from the Book-Crossings dataset, this project aims to recommend books that are similar to a given book. The recommendation is based on the ratings provided by users, leveraging the KNN algorithm to find and suggest books with similar rating patterns.
+
+The primary objective of this project is to provide users with personalized book recommendations, enhancing their reading experience by suggesting books that are likely to be of interest based on their past preferences.
 
 ## Dataset
 
