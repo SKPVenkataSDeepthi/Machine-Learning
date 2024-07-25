@@ -12,10 +12,10 @@ The dataset used in this project is heart.csv, which contains various health met
 ## Model Overview
 The model is an Artificial Neural Network (ANN) with the following architecture:
 
-Input Layer: 13 neurons (corresponding to the 13 features in the dataset)
-Hidden Layer 1: 8 neurons with ReLU activation
-Hidden Layer 2: 14 neurons with ReLU activation
-Output Layer: 1 neuron with Sigmoid activation (for binary classification)
+* Input Layer: 13 neurons (corresponding to the 13 features in the dataset)
+* Hidden Layer 1: 8 neurons with ReLU activation
+* Hidden Layer 2: 14 neurons with ReLU activation
+* Output Layer: 1 neuron with Sigmoid activation (for binary classification)
 ## Steps Involved
 Import Libraries: Import necessary libraries including TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 Load and Prepare the Dataset: Load the dataset and separate the features and target variable.
