@@ -17,17 +17,17 @@ The model is an Artificial Neural Network (ANN) with the following architecture:
 * Hidden Layer 2: 14 neurons with ReLU activation
 * Output Layer: 1 neuron with Sigmoid activation (for binary classification)
 ## Steps Involved
-Import Libraries: Import necessary libraries including TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
-Load and Prepare the Dataset: Load the dataset and separate the features and target variable.
-Split Data: Split the data into training and testing sets.
-Scale the Data: Scale the features using standard scaling.
-Build the ANN Model: Create a Sequential model and add layers (input layer, hidden layers, and output layer) with appropriate activation functions.
-Compile the Model: Compile the model with optimizer, loss function, and evaluation metrics.
-Train the Model: Train the model using the training data.
-Make Predictions: Predict the outcomes for the test set and the entire dataset.
-Calculate Percentages: Calculate the percentage of individuals predicted to have and not to have heart disease.
-Plot Results: Plot a pie chart showing the percentages of individuals with and without heart disease.
-Evaluate Model: Create and visualize the confusion matrix for the test set predictions.
+* Import Libraries: Import necessary libraries including TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+* Load and Prepare the Dataset: Load the dataset and separate the features and target variable.
+* Split Data: Split the data into training and testing sets.
+* Scale the Data: Scale the features using standard scaling.
+* Build the ANN Model: Create a Sequential model and add layers (input layer, hidden layers, and output layer) with appropriate activation functions.
+* Compile the Model: Compile the model with optimizer, loss function, and evaluation metrics.
+* Train the Model: Train the model using the training data.
+* Make Predictions: Predict the outcomes for the test set and the entire dataset.
+* Calculate Percentages: Calculate the percentage of individuals predicted to have and not to have heart disease.
+* Plot Results: Plot a pie chart showing the percentages of individuals with and without heart disease.
+* Evaluate Model: Create and visualize the confusion matrix for the test set predictions.
 ## Results
 The model predicts the presence of heart disease with an accuracy of approximately 85%. The confusion matrix and percentage plots provide a detailed view of the model's performance.
 ## Conclusion
