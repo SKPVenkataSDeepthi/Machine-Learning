@@ -4,8 +4,9 @@ Air travel is an essential part of modern life, but flight delays can cause sign
 # How It Works
 Deep learning, a subset of artificial intelligence, excels at learning complex patterns and making decisions. It is particularly well-suited for tasks involving large datasets and complex relationships. In this project, we apply deep learning to predict flight delays by using the following approach:
 
-# Dataset
-The dataset used for this project can be found at Kaggle: Flight Delay Prediction. Download the dataset and save it as flight_data_2018_to_2022.csv for use in this project.
+## Dataset
+
+The dataset used for this project can be found at [Kaggle: Flight Delay Prediction](https://www.kaggle.com/datasets/whenamancodes/flight-delay-prediction). Download the dataset and save it as `flight_data_2018_to_2022.csv` for use in this project.
 
 * Data Collection: We use historical flight data to train our model.
 * Data Preprocessing: The data is cleaned and transformed to make it suitable for deep learning.
