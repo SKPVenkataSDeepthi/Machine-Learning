@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-## ![Background](https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif)
+## ![Background](https://media.licdn.com/dms/image/v2/D4D12AQGUoP0eC-beFQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1676389239539?e=2147483647&v=beta&t=8E5wTmzjZ9ELCPfDJmIR6MCvkdcIffDbZWWOjnDxqtc)
 
 ## Hands-on
 This section contains practical exercises and examples to help you get hands-on experience with machine learning concepts.
