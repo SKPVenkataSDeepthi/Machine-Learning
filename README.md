@@ -1,4 +1,4 @@
-# Machine Learning Repository
+# Machine Learning
 
 ## ![Background](https://media.licdn.com/dms/image/v2/D4D12AQGUoP0eC-beFQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1676389239539?e=2147483647&v=beta&t=8E5wTmzjZ9ELCPfDJmIR6MCvkdcIffDbZWWOjnDxqtc)
 
